@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27917138912",
+    "firebase_url": "https://covid-ensa.firebaseio.com",
+    "project_id": "covid-ensa",
+    "storage_bucket": "covid-ensa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27917138912:android:beec859ed114d476f54985",
+        "android_client_info": {
+          "package_name": "com.example.covidensa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27917138912-phlkqotnvr5lcmtj1jk5vr9h9va9rdn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo23cyiQeHODzTHlEPqUonBvOiTJNwzaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27917138912-phlkqotnvr5lcmtj1jk5vr9h9va9rdn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
